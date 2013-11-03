@@ -22,3 +22,7 @@ Must be printed by an authorized ACM member
 About
 Contributors
 License
+
+# MISC
+------
+Add hosted by github in the footer and link to the repo
