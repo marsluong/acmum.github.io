@@ -17,12 +17,13 @@ Must be printed by an authorized ACM member
 # Section for upcoming events
 -----------------------------
 
-# Add README.md to the GIT
+[X] # Add README.md to the GIT
 --------------------------
-About
-Contributors
-License
+[X] About
+[X] Contributors
+[X] License
 
 # MISC
 ------
-Add hosted by github in the footer and link to the repo
+[X] Add hosted by github in the footer and link to the repo
+Add Facebook link to footer
