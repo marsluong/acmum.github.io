@@ -11,10 +11,11 @@ $5.00 Setup + $0.12/gram of filament
 Payment must be recieved by estimation of filament used and adjustments will made afterwards
 Must be printed by an authorized ACM member
 
-# Section for joining Mailing List
+[X] # Section for joining Mailing List
 ----------------------------------
+Membership Application
 
-# Section for upcoming events
+[X] # Section for upcoming events
 -----------------------------
 
 [X] # Add README.md to the GIT
@@ -26,4 +27,4 @@ Must be printed by an authorized ACM member
 # MISC
 ------
 [X] Add hosted by github in the footer and link to the repo
-Add Facebook link to footer
+[X] Add Facebook link to footer
