@@ -3,6 +3,14 @@ acmum.github.io
 
 The ACM website raw files. 
 
+## Contributing
+
+Check out + <http://memphisacm.com/contributing.html> on how to contribute to this repo.
+
+## TODO
+
++ <https://github.com/acmum/acmum.github.io/blob/master/TODO.MD>
+
 ## Authors
 
 **Andrew Hood**
