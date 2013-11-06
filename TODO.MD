@@ -28,3 +28,7 @@ Membership Application
 ------
 [X] Add hosted by github in the footer and link to the repo
 [X] Add Facebook link to footer
+
+# Sponsors
+----------
+Create page for our sponsors
