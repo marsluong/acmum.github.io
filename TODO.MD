@@ -32,3 +32,5 @@ Membership Application
 # Sponsors
 ----------
 Create page for our sponsors
+
+# Configure website for jekyll
