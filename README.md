@@ -11,12 +11,22 @@ Check out + <http://memphisacm.com/contributing.html> on how to contribute to th
 
 + <https://github.com/acmum/acmum.github.io/blob/master/TODO.MD>
 
-## Authors
+## Contributors
 
 **Andrew Hood**
 
 + <http://andrew-hood.com>
 + <http://github.com/andrewhood125>
+
+**Maria Luoung**
+
++ <http://github.com/marsluong>
+
+**Taylor Yarbro**
++ <http://github.com/stybro>
+
+**All**
++ <https://github.com/acmum/acmum.github.io/graphs/contributors>
 
 ## Copyright and license
 
