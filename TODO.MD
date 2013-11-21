@@ -11,26 +11,10 @@ $5.00 Setup + $0.12/gram of filament
 Payment must be recieved by estimation of filament used and adjustments will made afterwards
 Must be printed by an authorized ACM member
 
-[X] # Section for joining Mailing List
-----------------------------------
-Membership Application
 
-[X] # Section for upcoming events
------------------------------
 
-[X] # Add README.md to the GIT
---------------------------
-[X] About
-[X] Contributors
-[X] License
 
-# MISC
-------
-[X] Add hosted by github in the footer and link to the repo
-[X] Add Facebook link to footer
-
-# Sponsors
-----------
-Create page for our sponsors
+# Create page for our sponsors
+# Create page for past events
 
 # Configure website for jekyll
