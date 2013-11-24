@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} | ACM - University of Memphis</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Le styles -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <div class="header_bar">
+          <a href="http://memphis.edu" class="ilogo">
+            <img src="/img/umseal.png" height="50">
+          </a>
+          <a class="brand" href="/">
+            <img src="/img/acm.png" width="150" height="150" class="logo">
+            <div>
+              <strong>Association for Computing Machinery</strong><br>
+              <em>University of Memphis</em>
+            </div>
+          </a>
+        </div>
+
+          <ul class="nav nav-pills">
+            <li><a href="/">Home</a></li>
+            <li><a href="/contributing/">Contributing</a></li>
+            <li><a href="/membership/">Membership</a></li>
+            <li><a href="/all/">All Posts</a></li>
+          </ul>
+
+      </div>
+    </div>
+
+
+
+    <div class="container main">
+      <div class="row">
+        <div class="span8">
+          
+          {{ content }}
+
+          <hr>
+          <p class="muted">Authored by: {{page.author}} on {{page.date | date_to_string}}, last edited on {{page.lastedit | date_to_string}}</p>
+
+        </div>
+
+
+        <div class="well span3">
+          <h3>Events:</h3>
+          <ul class="posts">
+            {% for post in site.posts %}
+            <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+
+      <hr>
+      <!-- Example row of columns 
+      <div class="row">
+        <div class="span4"></div>
+        <div class="span4"></div>
+        <div class="span4"></div>
+      </div> -->
+    </div> <!-- /container -->
+  <footer class="container"><span class="lead">ACM@UM <a href="https://www.facebook.com/groups/361920573832906/"><img style="height:30px;margin-top:-5px;" src="/img/facebook.png"/></a></span><div class="pull-right"><span class="lead">Proudly hosted by <a href="https://github.com/acmum/acmum.github.io"><img style="height:30px;margin-top:-5px;" src="/img/github.png" /></a></span></div></footer>
+
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="/js/jquery-2.0.3.min.js"></script>
+  <script src="/js/bootstrap.min.js"></script>  
+  </body>
+</html>
