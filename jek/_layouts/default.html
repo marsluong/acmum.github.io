@@ -3,22 +3,22 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>ACM - University of Memphis</title>
+    <title>{{ page.title }} | ACM - University of Memphis</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Le styles -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet">
   </head>
   <body>
     <div class="container">
       <div class="header">
         <div class="header_bar">
           <a href="http://memphis.edu" class="ilogo">
-            <img src="img/umseal.png" height="50">
+            <img src="/img/umseal.png" height="50">
           </a>
           <a class="brand" href="/">
-            <img src="img/acm.png" width="150" height="150" class="logo">
+            <img src="/img/acm.png" width="150" height="150" class="logo">
             <div>
               <strong>Association for Computing Machinery</strong><br>
               <em>University of Memphis</em>
@@ -28,8 +28,9 @@
 
           <ul class="nav nav-pills">
             <li class="active"><a href="/">Home</a></li>
-            <li><a href="contributing.html">Contributing</a></li>
-            <li><a href="membership.html">Membership</a></li>
+            <li><a href="/contributing/2013/11/03/how-to-contribute-acm-website.html">Contributing</a></li>
+            <li><a href="/membership/2013/11/03/become-member.html">Membership</a></li>
+            <li><a href="/website/2013/11/24/all-posts.html">All Posts</a></li>
           </ul>
 
       </div>
@@ -41,21 +42,19 @@
       <div class="row">
         <div class="span8">
           
-          <h1>Welcome!</h1>
-          <p class="lead">The Association for Computing Machinery (ACM) is a student group consisting of a variety of people with diverse backgrounds who share a common interest in computers. We are a chapter of a larger nation organization.</p>
+          {{ content }}
 
-          <h3>What is ACM?</h3>
-          <p>The world's largest educational and scientific computing society, fostering knowledge, colloaboration and innovation. ACM unites professionals, researchers, educators, and students to inspire dialogue and ideas that address the field's challenges. ACM provides career development, professional networking and lifelong learning for its 100,000+ members worldwide.</p>
-
-
-          <hr/>
-          <p class="muted">Authored by Andrew Hood on November 3rd 2013, last edited November 4th 2013</p>
+          <hr>
+          <p class="muted">Authored by: {{page.author}} on {{page.date | date_to_string}}, last edited on {{page.lastedit | date_to_string}}</p>
 
         </div>
 
+
         <div class="well span3">
           <h3>Events:</h3>
-          {{ content }}
+          <p class="muted"><a class="muted" href="events/meeting.html">ACM Meeting</a> Nov 20th 3:30pm DH 147</p>
+          <p><a href="events/2013-11-21-super-smash-bros-tournament.html">Super Smash Bros. Brawl Tournament</a> Nov 21st 6:00pm DH 147</p>
+          <p>FNC Intership Program Feb 28th 4:00pm TBA</p>
         </div>
       </div>
 
