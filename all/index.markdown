@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "All Posts"
 author: Andrew Hood
 date:   2013-11-24 12:32:42

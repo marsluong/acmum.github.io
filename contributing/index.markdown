@@ -7,11 +7,6 @@ lastedit: 2013-11-3 12:32:42
 categories: contributing
 ---
 
-Contributing
-============
-How to contribute to the ACM@UM Website
----------------------------------------
-
 ### 1. Get a GitHub account.
 The ACM@UM website is proudly hosted by GitHub. The source code is located at <a href="https://github.com/acmum/acmum.github.io">https://github.com/acmum/acmum.github.io</a>. If you do not have a GitHub account already you can sign up by visiting <a href="https://github.com/join">https://github.com/join</a>.
 
