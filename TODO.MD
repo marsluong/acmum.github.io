@@ -15,6 +15,4 @@ Must be printed by an authorized ACM member
 
 
 # Create page for our sponsors
-# Create page for past events
 # Create offciers page
-# Configure website for jekyll
