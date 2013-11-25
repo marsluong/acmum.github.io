@@ -4,7 +4,7 @@ title:  "Super Smash Bros. Brawl Tournament!"
 author: Andrew Hood, Maria Luong
 date:   2013-11-21 12:32:42
 lastedit: 2013-11-21 12:32:42
-categories: events
+categories: event
 ---
 
 Details
