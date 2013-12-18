@@ -12,9 +12,9 @@ IT-related projects, including their current Wifi project.
 
 If interested contact Mike Hoffmeyer. 
 
-Mike Hoffmeyer
-Crews Center for Entrepreneurship
-University of Memphis
-901-678-1585 Office
-901-569-3411 Mobile
-http://crews.memphis.edu
+Mike Hoffmeyer  
+Crews Center for Entrepreneurship  
+University of Memphis  
+901-678-1585 Office  
+901-569-3411 Mobile  
+http://crews.memphis.edu  
