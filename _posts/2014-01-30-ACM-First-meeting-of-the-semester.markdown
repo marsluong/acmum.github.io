@@ -4,7 +4,9 @@ title:  "ACM First Meeting of the Semester!"
 author: Maria Luong 
 date:   2014-01-25 19:48:21 
 lastedit:   2014-01-25 19:48:21 
-categories: meeting, event
+categories: 
+- meeting 
+- event
 ---
 
 Hi everyone,
