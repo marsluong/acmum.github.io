@@ -17,10 +17,10 @@ The ACM uses the "Fork &amp; Pull" contribution method. This means that you fork
 After all your hard work you completed your changes or additions and want to see them on the live website. What you do is send something called a pull request. What this does is sends the maintainer of the main respositoty that someone had made a change and would like the maintainer to incorporate it. The maintainer will make sure that all the changes are valid before making them live.
 
 ### Appendix
-*What needs to be done? Fork the repo and take a look in TODO.md
-*But I don't know anything about writing a website? <a href="http://www.codecademy.com/">http://www.codecademy.com/</a> will get you on your way.
-*But the website uses a html5 framework I'm unfamiliar with? We use <a href="http://getbootstrap.com/2.3.2/index.html">Bootstrap</a> and it totally rocks! Look there for documentation and examples of what you can do.  
-*But the above just made me more confused? Stop by Dunn Hall 147 and let us help you out!
+**What needs to be done?** Fork the repo and take a look in TODO.md  
+**But I don't know anything about writing a website?** <a href="http://www.codecademy.com/">http://www.codecademy.com/</a> will get you on your way.  
+**But the website uses a html5 framework I'm unfamiliar with?** We use <a href="http://getbootstrap.com/2.3.2/index.html">Bootstrap</a> and it totally rocks! Look there for documentation and examples of what you can do.  
+**But the above just made me more confused?** Stop by Dunn Hall 147 and let us help you out!
 
 ### Why contribute?
 1. Because you're awesome.
