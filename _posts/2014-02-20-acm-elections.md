@@ -13,6 +13,11 @@ Elections will be held on March 6th, 2014 at 4:00pm in Dunn Hall 147.
 Everyone is welcome to attend but vote casting will be limited to
 members of the ACM. 
 
+<div class="alert">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+  <strong>Not an ACM member?</strong> Fill out <a href="/membership/join/">this</a> application it only takes a couple seconds!
+</div>
+
 If you would like to be added to the table of nominees please email
 Andrew Hood <andrewhood125@gmail.com>.
 
