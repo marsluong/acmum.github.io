@@ -3,7 +3,7 @@ layout: post
 title:  "ACM Elections"
 author: Andrew Hood 
 date:   2014-03-06 16:00:00 
-lastedit:   2014-02-20 20:39:21 
+lastedit:   2014-03-06 16:35:00
 categories: 
 - meeting 
 - event
@@ -21,24 +21,26 @@ members of the ACM.
 If you would like to be added to the table of nominees please email
 Andrew Hood <andrewhood125@gmail.com>.
 
+---
+
+__Update__ : Congratulations to the new ACM Officers!
+
 <table class="table table-striped table-bordered">
-  <caption>2014-2015 nominees</caption>
+  <caption>2014-2015 Officers</caption>
   <thead>
     <tr>
       <th>President</th>
       <th>Vice President</th>
       <th>Treasurer</th>
       <th>Secretary</th>
-      <th>Project Manager</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Kyle Mallard</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
+      <td>Jordan DeLong<td>
+      <td>Herve Aniglo<td>
+      <td>Marcus Muller<td>
     </tr>
   </tbody>
 </table>
