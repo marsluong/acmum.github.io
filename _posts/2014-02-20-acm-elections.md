@@ -38,9 +38,9 @@ __Update__ : Congratulations to the new ACM Officers!
   <tbody>
     <tr>
       <td>Kyle Mallard</td>
-      <td>Jordan DeLong<td>
-      <td>Herve Aniglo<td>
-      <td>Marcus Muller<td>
+      <td>Jordan DeLong</td>
+      <td>Herve Aniglo</td>
+      <td>Marcus Muller</td>
     </tr>
   </tbody>
 </table>
