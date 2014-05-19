@@ -1,26 +1,20 @@
 ---
 layout: post
 title:  "Officers"
-author: Andrew Hood
-date:   2013-11-25 12:32:42
-lastedit: 2013-11-25 12:32:42
+author: Kyle Mallard
+date:   2014-05-18 12:32:42
+lastedit: 2014-05-18 12:32:42
 categories: website
 ---
 
 ### President
-Andrew Hood (adhood@memphis.edu)
-
-### Vice President
-Maria Luong (mluong@memphis.edu)
-
-### Treasurer
-Neal Patel (npatel6@memphis.edu)
-
-### Secretary
 Kyle Mallard (kcmllard@memphis.edu)
 
-### Project Manager
-Jordan DeLong (imnothome23@gmail.com)
+### Vice President
+Jordan DeLong (jdelong@memphis.edu)
 
-### Recruiter
-Thomas Hipps (tnhipps@memphis.edu)
+### Treasurer
+Herve Aniglo (haniglo@memphis.edu)
+
+### Secretary
+Marcus Muller
