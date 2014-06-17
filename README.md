@@ -18,7 +18,7 @@ Check out + <http://memphisacm.com/contributing.html> on how to contribute to th
 + <http://andrew-hood.com>
 + <http://github.com/andrewhood125>
 
-**Maria Luoung**
+**Maria Luong**
 
 + <http://github.com/marsluong>
 
